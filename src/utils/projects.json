@@ -2,8 +2,8 @@
 	{
 		"id": 1,
 		"name": "PaytmMall-Clone",
-		"description": "PaytmMall is an e-commerce platform where users can find different kinds of products from various categories. Users can add as many as products cart and place the order.",
-		"tech_stack": ["HTML", "CSS", "Javascript"],
+		"description": "It was a team project.We implemented some product sorting and filtering features, We used local storage for data handling and implemented signup, login, individual product page, category-wise page, address input, cart, checkout page, etc.",
+		"tech_stack": ["HTML", "CSS", "Javascript", "Local Storage"],
 		"links": [
 			"https://github.com/sameerah2710/PaytmMall-clone",
 			"https://suspicious-wing-0660d2.netlify.app/"
@@ -13,8 +13,8 @@
 	{
 		"id": 2,
 		"name": "Himalaya Clone",
-		"description": "Himalaya is an e-commerce platform where users can find different kinds of health related products from various categories. Users can add as many as products cart and place the order.",
-		"tech_stack": ["HTML", "CSS", "Javascript"],
+		"description": "This is the first ever individual project built by me during construct week at Masai School And I implemented some product sorting and filtering features. I used local storage for data handling, And also implemented signup, login, individual product page, category-wise page, address input, cart, checkout page, etc.",
+		"tech_stack": ["HTML", "CSS", "Javascript", "Local Storage"],
 		"links": [
 			"https://github.com/iMrihan/himalaya-clone",
 			"https://amazing-jennings-31b5ef.netlify.app/"
@@ -24,7 +24,7 @@
 	{
 		"id": 3,
 		"name": "Mini-Food-Application",
-		"description": "Find your everyday cooking inspiration on Recipe Website. Discover recipes, cooks, and how-tos based on the food you love.",
+		"description": "A food purchase simple app using https://www.themealdb.com api.",
 		"tech_stack": ["HTML", "CSS", "Advanced Javascript", "API"],
 		"links": [
 			"https://github.com/iMrihan/mini-foods-application",
