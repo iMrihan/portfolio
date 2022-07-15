@@ -1,35 +1,42 @@
 [
-	{
-		"id": 1,
-		"name": "PaytmMall-Clone",
-		"description": "It was a team project.We implemented some product sorting and filtering features, We used local storage for data handling and implemented signup, login, individual product page, category-wise page, address input, cart, checkout page, etc.",
-		"tech_stack": ["HTML", "CSS", "Javascript", "Local Storage"],
-		"links": [
-			"https://github.com/sameerah2710/PaytmMall-clone",
-			"https://suspicious-wing-0660d2.netlify.app/"
-		],
-		"img": "./assets/images/projects/paytmmall-image.png"
-	},
-	{
-		"id": 2,
-		"name": "Himalaya Clone",
-		"description": "This is the first ever individual project built by me during construct week at Masai School And I implemented some product sorting and filtering features. I used local storage for data handling, And also implemented signup, login, individual product page, category-wise page, address input, cart, checkout page, etc.",
-		"tech_stack": ["HTML", "CSS", "Javascript", "Local Storage"],
-		"links": [
-			"https://github.com/iMrihan/himalaya-clone",
-			"https://amazing-jennings-31b5ef.netlify.app/"
-		],
-		"img": "./assets/images/projects/Himalaya-image.png"
-	},
-	{
-		"id": 3,
-		"name": "Mini-Food-Application",
-		"description": "A food purchase simple app using https://www.themealdb.com api.",
-		"tech_stack": ["HTML", "CSS", "Advanced Javascript", "API"],
-		"links": [
-			"https://github.com/iMrihan/mini-foods-application",
-			"https://tender-ramanujan-bb1a3f.netlify.app/"
-		],
-		"img": "./assets/images/projects/Food-Application-Image.png"
-	}
+  {
+    "id": 1,
+    "name": "PaytmMall-Clone",
+    "description": "It was a team project.We implemented some product sorting and filtering features, We used local storage for data handling and implemented signup, login, individual product page, category-wise page, address input, cart, checkout page, etc.",
+    "tech_stack": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "ExpressJs",
+      "MongoDb",
+      "NodeJs"
+    ],
+    "links": [
+      "https://github.com/sameerah2710/PaytmMall-clone",
+      "https://suspicious-wing-0660d2.netlify.app/"
+    ],
+    "img": "./assets/images/projects/paytmmall-image.png"
+  },
+  {
+    "id": 2,
+    "name": "Himalaya Clone",
+    "description": "This is the first ever individual project built by me during construct week at Masai School And I implemented some product sorting and filtering features. I used local storage for data handling, And also implemented signup, login, individual product page, category-wise page, address input, cart, checkout page, etc.",
+    "tech_stack": ["HTML", "CSS", "Javascript", "Local Storage"],
+    "links": [
+      "https://github.com/iMrihan/himalaya-clone",
+      "https://amazing-jennings-31b5ef.netlify.app/"
+    ],
+    "img": "./assets/images/projects/Himalaya-image.png"
+  },
+  {
+    "id": 3,
+    "name": "Mini-Food-Application",
+    "description": "A food purchase simple app using https://www.themealdb.com api.",
+    "tech_stack": ["HTML", "CSS", "Advanced Javascript", "API"],
+    "links": [
+      "https://github.com/iMrihan/mini-foods-application",
+      "https://tender-ramanujan-bb1a3f.netlify.app/"
+    ],
+    "img": "./assets/images/projects/Food-Application-Image.png"
+  }
 ]
